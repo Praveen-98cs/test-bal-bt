@@ -1,0 +1,54 @@
+{
+  "last_build_time": 1773396889146,
+  "last_update_time": 1773396889146,
+  "last_bal_toml_update_time": 1773396864894,
+  "distribution_version": "2201.13.1",
+  "last_modified_time": {
+    "service1": 1773396864894
+  },
+  "last_build_options": {
+    "compilationOptions": {
+      "observabilityIncluded": true,
+      "dumpBir": false,
+      "cloud": "",
+      "dumpGraph": false,
+      "dumpRawGraphs": false
+    }
+  },
+  "src_meta_info": [
+    {
+      "file": "/Users/praveenmaheepala/Downloads/new-one/test-bal-bt/service.bal",
+      "hash": "f631d13e2706b20e04f12fbb553236d0e99d12f3b09317b1ff1a9ce35e046e28",
+      "size": 644,
+      "lastModifiedTime": 1773396840769
+    },
+    {
+      "file": "/Users/praveenmaheepala/Downloads/new-one/test-bal-bt/Ballerina.toml",
+      "hash": "449497d34e5347f1aa4fc3d7efbc92faf2a1d2402324f1ac5b598ae08804ca81",
+      "size": 136,
+      "lastModifiedTime": 1773396864894
+    }
+  ],
+  "target_exec_meta_info": {
+    "file": "/Users/praveenmaheepala/Downloads/new-one/test-bal-bt/target/backup/bin/service1.jar",
+    "hash": "5bf06aa210b1729c3093f3587236a15830e1caab7ef4e66463c08ec62bcce1d5",
+    "size": 46833522,
+    "lastModifiedTime": 1773396890413
+  },
+  "settings_meta_info": {
+    "file": "/Users/praveenmaheepala/.ballerina/Settings.toml",
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0,
+    "lastModifiedTime": 1709725800307
+  },
+  "ballerina_toml_meta_info": {
+    "file": "/Users/praveenmaheepala/Downloads/new-one/test-bal-bt/Ballerina.toml",
+    "hash": "449497d34e5347f1aa4fc3d7efbc92faf2a1d2402324f1ac5b598ae08804ca81",
+    "size": 136,
+    "lastModifiedTime": 1773396864894
+  },
+  "imports": [
+    "ballerina/http",
+    "ballerina/io"
+  ]
+}
