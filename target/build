@@ -1,10 +1,10 @@
 {
-  "last_build_time": 1773396889146,
-  "last_update_time": 1773396889146,
-  "last_bal_toml_update_time": 1773396864894,
+  "last_build_time": 1773397913323,
+  "last_update_time": 1773397913323,
+  "last_bal_toml_update_time": 1773397866940,
   "distribution_version": "2201.13.1",
   "last_modified_time": {
-    "service1": 1773396864894
+    "service1": 1773397866940
   },
   "last_build_options": {
     "compilationOptions": {
@@ -18,22 +18,22 @@
   "src_meta_info": [
     {
       "file": "/Users/praveenmaheepala/Downloads/new-one/test-bal-bt/service.bal",
-      "hash": "f631d13e2706b20e04f12fbb553236d0e99d12f3b09317b1ff1a9ce35e046e28",
-      "size": 644,
-      "lastModifiedTime": 1773396840769
+      "hash": "734369f442ea22f3c7192ee12630b74042b1f34b856069d92fd7c4051f1734ee",
+      "size": 671,
+      "lastModifiedTime": 1773397750684
     },
     {
       "file": "/Users/praveenmaheepala/Downloads/new-one/test-bal-bt/Ballerina.toml",
       "hash": "449497d34e5347f1aa4fc3d7efbc92faf2a1d2402324f1ac5b598ae08804ca81",
       "size": 136,
-      "lastModifiedTime": 1773396864894
+      "lastModifiedTime": 1773397866940
     }
   ],
   "target_exec_meta_info": {
     "file": "/Users/praveenmaheepala/Downloads/new-one/test-bal-bt/target/backup/bin/service1.jar",
-    "hash": "5bf06aa210b1729c3093f3587236a15830e1caab7ef4e66463c08ec62bcce1d5",
-    "size": 46833522,
-    "lastModifiedTime": 1773396890413
+    "hash": "2e3a452a1636702273b967f3b2b766c50f8438f278f548979016af42446b2598",
+    "size": 46833559,
+    "lastModifiedTime": 1773397914614
   },
   "settings_meta_info": {
     "file": "/Users/praveenmaheepala/.ballerina/Settings.toml",
@@ -45,10 +45,11 @@
     "file": "/Users/praveenmaheepala/Downloads/new-one/test-bal-bt/Ballerina.toml",
     "hash": "449497d34e5347f1aa4fc3d7efbc92faf2a1d2402324f1ac5b598ae08804ca81",
     "size": 136,
-    "lastModifiedTime": 1773396864894
+    "lastModifiedTime": 1773397866940
   },
   "imports": [
     "ballerina/http",
-    "ballerina/io"
+    "ballerina/io",
+    "ballerina/log"
   ]
 }

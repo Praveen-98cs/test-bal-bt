@@ -1,5 +1,6 @@
 import ballerina/http;
 import ballerina/io;
+import ballerina/log as _;
 
 configurable string service2URL = ?;
 
